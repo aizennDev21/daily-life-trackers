@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Tracker",
+  "description": "Aplikasi personal all-in-one untuk merekam, memantau, dan merefleksikan aktivitas harian, keuangan, kesehatan, tidur, mood, habit, dan produktivitas dengan AI Life Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
